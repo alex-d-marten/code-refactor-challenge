@@ -6,3 +6,5 @@ This project entails refactoring a .html and .css file so that there is less red
 # Webpage Link
 https://alex-d-marten.github.io/module-1-challenge/Develop/marketing-agency.html
 
+# Webpage Screenshot
+![Horiseon Screenshot](https://github.com/alex-d-marten/module-1-challenge/blob/main/Develop/assets/images/Horiseon%20Inc%20Screenshot%20for%20Github%20README.png) 
