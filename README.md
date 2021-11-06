@@ -1,1 +1,3 @@
 # Code Refactor Starter Code
+Initally the code had a multitude of issues including missing id's for link functionality in the marketing-agency.html and unnecessary repeated styling in the style.css file. Additonally, there was a large use of the <div> element throughout the .html file that was not following html semantic elements best practices. In this refactor I address these issues bby adding in missing id's so that all links work correctly on the webpage and I also added proper semantic elements for the .html file. Lastly, I cleaned up the style.css file so that there was no repetition, in this some minor changes were also made to the .html file and comments were added to all files.
+
